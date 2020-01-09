@@ -1,4 +1,4 @@
-check showTime  class for fingre print following
+# check showTime  class for fingre print following
 
 ![Alt text](https://i.imgur.com/bxwf2aA.png "FAInteractiveView-Image")
 
