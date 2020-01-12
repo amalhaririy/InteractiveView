@@ -1,4 +1,11 @@
 # check showTime  class for fingre print following
+method_exchangeImplementations(m1,m2)
+This is an atomic version of the following:
+IMP imp1 = method_getImplementation(m1);
+IMP imp2 = method_getImplementation(m2);
+method_setImplementation(m1, imp2);
+method_setImplementation(m2, imp1);
+
 
 ![Alt text](https://i.imgur.com/bxwf2aA.png "FAInteractiveView-Image")
 
